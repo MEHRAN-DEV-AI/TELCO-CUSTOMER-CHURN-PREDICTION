@@ -1,5 +1,8 @@
 # TELCO-CUSTOMER-CHURN-PREDICTION
 
+# Direct Access To The Notebook
+[CLICK HERE](https://nbviewer.org/github/MEHRAN-DEV-AI/TELCO-CUSTOMER-CHURN-PREDICTION/blob/main/telco-customer-analysis.ipynb) TO SEE THE NOTEBOOK DIRECTLY.
+
 ## OVERVIEW
 IN THIS PROJECT , YOU WILL FIND THE ANALYIS OF TELCO CHURN DATASET AND ALSO THE DATA MODELING FOR PREDICTION OF THE CUSTOMERS CHURN.
 
@@ -56,4 +59,6 @@ Evaluate models using:
 Accuracy, Precision, Recall, F1-Score, ROC-AUC.
 
 # LICENCE
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/MEHRAN-DEV-AI/TELCO-CUSTOMER-CHURN-PREDICTION/blob/main/LICENSE) file for details.
+
 
